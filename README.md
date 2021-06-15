@@ -1,0 +1,2 @@
+# IOT-Based-Smart-Power-Supply
+we have developed a power supply kit which will be controlled via mobile smart-phones through the network of IoT. We have used microcontroller NODE-MCU for the coding purpose which will be connected through a relay switch which will turn on/off the system. The whole system along with the operating device will be connected wirelessly over a Network Cloud with a bandwidth to be set according to the program burned into the microcontroller.
